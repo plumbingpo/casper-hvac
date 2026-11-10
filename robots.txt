@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://casperhvacco.com/sitemap.xml
